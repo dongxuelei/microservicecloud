@@ -48,5 +48,8 @@ public class DeptController {
         }
         return this.client;
     }
+    public static  void show(){
+        System.out.println("我是你爸爸");
+    }
 
 }
