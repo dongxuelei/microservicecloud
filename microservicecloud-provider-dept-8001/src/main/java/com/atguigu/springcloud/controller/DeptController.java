@@ -51,5 +51,8 @@ public class DeptController {
     public static  void show(){
         System.out.println("我是你爸爸");
     }
+    public static  void sss(){
+        System.out.println("我是你爸爸");
+    }
 
 }
